@@ -16,6 +16,7 @@ dependencies = [
     "plotly>=6.3.0",
     "pydantic>=2.11.7",
     "requests>=2.32.4",
+    "scikit-learn>=1.7.2",
     "seaborn>=0.13.2",
     "streamlit>=1.48.1",
 ]
